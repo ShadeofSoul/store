@@ -1,0 +1,221 @@
+{
+  "plants": [
+    {
+      "title": "Chlorophytum",
+      "price": "1000",
+      "type": "Ampel",
+      "image": "https://cdn11.bigcommerce.com/s-uemzj79jf9/images/stencil/2048x2048/products/1743/3808/Spider_Plant_pic1__77446.1626975447.jpg?c=2",
+      "description": "Light moderate indirect, green varieties Chlorophytum comosum carry a dark room, and in variegated varieties the bright color of the leaves is better manifested in the light. In curly chlorophytum(Chlorophytum comosum variegatum ‘Bonnie’) in the absence of light, leaves become ordinary. In all varieties and species, a more lush shrub and intensive growth is manifested in bright scattered light (east and west window)."
+    },
+    {
+      "title": "Нedera",
+      "price": "1000",
+      "type": "Ampel",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/05/6-55.jpg",
+      "description": "Bright diffused light is required for variegated forms and for H.canariensis (however, it is pritenyat from direct sun). For green plants, the north window is suitable, can adapt to shaded areas and penumbraes, and also grow under artificial illumination."
+    },
+    {
+      "title": "Epipremnum",
+      "type": "Ampel",
+      "price": "1000",
+      "image": "https://www.gardenclick.it/36441-large_default/pothos-epipremnum-aureum-oder-scindapsus-aurens.jpg",
+      "description": "Very easily multiply by apical cuttings bearing at least two leaves. The stalk is planted in a mixture of peat and moss. Root at a temperature of 68-71,6 ° F, covering the container with glass or polyethylene. The easiest way is to propagate a plant by rooting cuttings in spring water."
+    },
+    {
+      "title": "Leptospermum",
+      "price": "1000",
+      "type": "Bonsai",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/05/6-55.jpg",
+      "description": "Plants in the genus Leptospermum range in size from prostrate shrubs to small trees, and have fibrous, flaky or papery bark. The leaves are arranged alternately and are relatively small, rigid and often aromatic when crushed. The flowers may be solitary or in groups, and have bracteoles and sepals which in most species fall off as the flower opens. There are five spreading, conspicuous petals which are white, pink or red. There are many stamens which are usually shorter than the petals and in five groups opposite the stamens, although they often appear not to be grouped. A simple style usually arises from a small depression in the ovary which has from three to five sections in most species, each section containing a few to many ovules. The fruit is a woody capsule which opens at the top to release the seeds, although in some species this does not occur until the plant, or the part of it, dies."
+    },
+    {
+      "title": "Ficus Benjamini",
+      "price": "1000",
+      "type": "Bonsai",
+      "image": "https://bonsaihaat.in/wp-content/uploads/2020/06/Ficus-Benjamina-bonsai-informal-upright.jpg",
+      "description": "This tropical and evergreen plant belongs to Southwest Asia where it is naturally grown. Most popular in indoor bonsai, ficus is a low-maintenance plant and the best for bonsai beginners. Thick and dense canopy with dark and light green leaves make the bonsai attractive."
+    },
+    {
+      "title": "Portulacaria Afra",
+      "price": "1000",
+      "type": "Bonsai",
+      "image": "https://i.pinimg.com/originals/f1/93/89/f193890eba7afea8c9b09db026c6ff15.jpg",
+      "description": "It is an evergreen, richly branched shrub with reddish twigs and glossy, broad, wedge-shaped leaves that may be red-edged. This succulent plant can grow up to 3.5 meters in its home, the arid regions of South Africa, and looks like a small wildly branched cripple tree, as it serves as food for cattle and game."
+    },
+    {
+      "title": "Tillandsia Antonio",
+      "price": "1000",
+      "type": "Bromeliad",
+      "image": "https://www.australianplantsonline.com.au/media/catalog/product/cache/c9a4c2319e3118c983ed47a73d21fbe0/t/i/tillandsia-antonio---t2091-500.jpg",
+      "description": "Very scarce and unusual! Bigger, bolder, with the spoon-shaped pink 'flowers' like Tillandsia cyanea, but this time branching to create a multi-layer flower spike! The candy pink spoon produces the true flowers, small vivid purple florets, which appear like tiny butterflies."
+    },
+    {
+      "title": "Guzmania",
+      "price": "1000",
+      "type": "Bromeliad",
+      "image": "https://olivehill.net/wp-content/uploads/2016/12/04GuzmaniaVariada-800x800.jpg",
+      "description": "Like the other bromeliads, Guzmanias prefer and are happiest in bright, natural light.  An east or west exposure would be best but just be sure they avoid exposure to any direct, hot sun because they’ll burn.  They’ll be fine in low light for a few weeks, but they won’t be as long-lasting. If you want them for the long haul & have them produce pups, bright light is the ticket."
+    },
+    {
+      "title": "Echinocactus",
+      "price": "1000",
+      "type": "Cactus",
+      "image": "https://cdn11.bigcommerce.com/s-oqm1pc/images/stencil/1280x1280/products/3467/10534/golden_barrel2__59831.1570553417.jpg?c=2",
+      "description": "This cactus variety will not survive a hard frost, but if there is a risk of freezing temperatures it can be brought indoors to grow on a sunny window sill or under a grow light. Cactus need bright sunlight, great drainage, and infrequent water to prevent rot. Pick containers with drainage holes and use well-draining cactus and succulent soil with 70% to 80% mineral grit such as coarse sand, pumice, or perlite. Water deeply and wait for the soil to completely dry out before watering again."
+    },
+    {
+      "title": "Cereus",
+      "price": "1000",
+      "type": "Cactus",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/12/3-47-700x691.jpg",
+      "description": "Cereus are shrubby or treelike, often attaining great heights (C. hexagonus, C. lamprospermus, C. trigonodendron up to 15 m). Most stems are angled or distinctly ribbed, ribs 3–14 cm long, usually well developed and have large areoles, usually bearing spines. Cephalium is not present, Cereus mortensenii develops pseudocephalium. Flowers are large, funnelform, 9–30 cm long, usually white, sometimes pink, purple, rarely cream, yellow, greenish, and open at night. Fruits are globose to ovoid to oblong, 3–13 cm long, fleshy, naked, usually red but sometimes yellow, pulp white, pink or red. Seeds large, curved ovoid, glossy black."
+    },
+    {
+      "title": "Astrophytum",
+      "price": "1000",
+      "type": "Cactus",
+      "image": "https://i.pinimg.com/originals/92/ed/fb/92edfb87d8618511593eb1b438298f0a.jpg",
+      "description": "The species of the genus Astrophytum usually grow individually with spherical to columnar green shoots and reach heights of up to 1.5 meters. The shoots are often densely covered with fine white tufts of hair, but sometimes they are completely bald. There are four to ten (rarely three) very noticeable ribs that are not divided into cusps. The large areoles stand close together, but do not merge. The spike is variable. Thorns may be present or may be missing entirely."
+    },
+    {
+      "title": "Oncidium",
+      "price": "1000",
+      "type": "Orchid",
+      "image": "https://secure.img1-fg.wfcdn.com/im/67857590/compr-r85/5601/56011186/oncidium-orchids-floral-arrangement-in-pot.jpg",
+      "description": "The Oncidium orchids also are known as dancing-lady orchids, flowers in bright cheerful colors are a classic favorite for the home. Natural looking blossoms greet the eyes in the mossed terracotta pot."
+    },
+    {
+      "title": "Vanda",
+      "price": "1000",
+      "type": "Orchid",
+      "image": "https://images.creativemarket.com/0.1.0/ps/2810980/2688/3024/m1/fpnw/wm0/vanda-.jpg?1496778598&s=37f715801753ba0ab54c1bd151bb5f93",
+      "description": "Vandas are native to Southeast Asia. Most varieties prefer bright light and warmth as well as a reasonable degree of humidity. These plants are known for their large flower size and vibrant colors.Vandas are grown in teak baskets or in pots. For most household conditions, pots are best because they hold more moisture around the roots."
+    },
+    {
+      "title": "Miltonia",
+      "price": "1000",
+      "type": "Orchid",
+      "image": "https://img.crocdn.co.uk/images/products2/pl/20/00/03/24/pl2000032440.jpg?width=940&height=940",
+      "description": "Water weekly by sitting the pot in a tray of water (or the kitchen sink) for 15 minutes so it can soak up as much as it likes, then leave it to drain thoroughly before moving it back into position. Maintain temperatures around 15-24°C and keep it in a bright spot with protection from direct sunshine during spring and summer. Don't worry if the roots grow outside the pot. In their native environment, they grow in the crooks of branches, and use these aerial roots to absorb water from the air. They do not mind being overcrowded in their pots, so you only need to repot them when the growth starts to suffer."
+    },
+    {
+      "title": "Ascocentrum",
+      "price": "1000",
+      "type": "Orchid",
+      "image": "https://live.staticflickr.com/3854/14341575971_562c14d258_b.jpg",
+      "description": "Ascocentrum is a genus of epiphytic monopodial orchids. The plants are typically compact and resemble miniature vandas. With the publication of Genera Orchidacearum volume 6, all Ascocentrum species are now included in the genus Vanda. Affected hybrid names are explained on this website here. These species produce upright, densely-flowered inflorescences in shades of bright golden yellow to orange-red or fuchsia-pink. Bloom season is usually late spring."
+    },
+    {
+      "title": "Dendrobium",
+      "price": "1000",
+      "type": "Orchid",
+      "image": "https://media.istockphoto.com/photos/flowering-orchid-dendrobium-nobile-in-pot-isolated-on-white-picture-id868819444",
+      "description": "Dendrobium is a genus of mostly epiphytic and lithophytic orchids in the family Orchidaceae. It is a very large genus, containing more than 1,800 species that are found in diverse habitats throughout much of south, east and southeast Asia, including China, Japan, India, the Philippines, Indonesia, Australia, New Guinea, Vietnam and many of the islands of the Pacific. Orchids in this genus have roots that creep over the surface of trees or rocks, rarely having their roots in soil. Up to six leaves develop in a tuft at the tip of a shoot and from one to a large number of flowers are arranged along an unbranched flowering stem. "
+    },
+    {
+      "title": "Cattleya",
+      "price": "1000",
+      "type": "Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/0108/5782/products/PinkCattleyaOrchidPlant.jpg?v=1601314333",
+      "description": "Cattleyas thrive with a day temperature range between 70 and 80 degrees F. At night there should be at least a 10-degree drop, around 60-64 degrees F. This lower night temperature will help initiate flower buds and will promote stronger growth. Keeping the plants near a window is important if you do not provide artificial light. Cattleyas can be grown outside from June to late fall in areas with filtered light. Direct sun will burn the leaves. If you live in an area where snow falls (like here in Minnesota), you can leave Cattleyas outside until the first frost."
+    },
+    {
+      "title": "Rhipsalidopsis",
+      "price": "1000",
+      "type": "Cactus",
+      "image": "https://www.logees.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/7/s7835-4-large.jpg",
+      "description": "Easter Cactus (Rhipsalidopsis), or Spring Cactus, bloom in many cheery colors and the flowers arrive in profusion from March until May. Their star-shaped blooms open at sunrise and close at sunset and last for several weeks. Easter Cacti are native epiphytes and grow in the upper story of the trees in the forests of eastern Brazil. Knowing a plant’s native habitat is good information because it provides the gardener with tips on how to be successful when growing the plant."
+    },
+    {
+      "title": "Rebutia",
+      "price": "1000",
+      "type": "Cactus",
+      "image": "http://www.llifle.com/photos/Rebutia_vulpina_7195_l.jpg",
+      "description": "Rebutia is a genus of flowering plants in the family Cactaceae, native to Bolivia and Argentina. They are generally small, colorful cacti, globular in form, which freely produce flowers that are relatively large in relation to the body. They have no distinctive ribs, but do have regularly arranged small tubercles. They are considered fairly easy to grow and they may produce large quantities of seeds that germinate freely around the parent plant."
+    },
+    {
+      "title": "Mammillaria",
+      "price": "1000",
+      "type": "Cactus",
+      "image": "https://fickleprickles.com.au/539-large_default/mammillaria-zeilmanniana.jpg",
+      "description": "Mammillaria is one of the largest genera in the cactus family (Cactaceae), with currently 200 known species and varieties recognized.[1] Most of the mammillaria are native to Mexico, but some come from the southwest United States, the Caribbean, Colombia, Venezuela, Guatemala and Honduras.[2] The common name pincushion cactus refers to this and the closely related genus Escobaria."
+    },
+    {
+      "title": "Syngonium",
+      "price": "1000",
+      "type": "Ampel",
+      "image": "https://www.logees.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/y/syngonium_pixie.jpg",
+      "description": "Although these plants are extremely low light tolerant, they will grow faster and maintain their vibrant coloring and markings if grown in medium to bright indirect light. Direct sun will scorch their leaves. Allow these indoor plants to dry out partially between watering. If left dry for too long the lower leaves will dry up and turn brown. If this happens, soak the soil and let the plant rehydrate."
+    },
+    {
+      "title": "Tradescantia",
+      "price": "1000",
+      "type": "Ampel",
+      "image": "https://www.gardenersdream.co.uk/images/tradescantia-zebrina-wandering-jew-p4821-37957_zoom.jpg",
+      "description": "Tradescantia like bright, indirect light. They need a good amount of light and if they don’t get it, you’ll notice that their leaf markings begin to fade. Direct sun, however, will scorch their leaves (with the exception being the purple queen variety, which loves full sun).Tradescantia thrive in temperatures between 60 and 80 degrees, so they do well in typical indoor temperatures. Outdoors, they prefer a mild climate that doesn’t drop below 50 degrees. Frost will kill them."
+    },
+    {
+      "title": "Gynura",
+      "price": "1000",
+      "type": "Ampel",
+      "image": "https://www.cowellsgc.co.uk/files/images/webshop/gynura-purple-passion-1603195930-1_l.jpg",
+      "description": "This herbaceous evergreen in the Asteraceae family is commonly grown as a houseplant. It is best displayed in a hanging basket and is noted for its unusual velvety purple leaves and stems.  Bright, indirect light with protection from the afternoon sun will result in the best foliage color. Soil should be kept moist with less frequent watering in winter as overwatering may cause rot.  Clusters of tiny orange-yellow flowers appear in the fall but may not appear in low-light conditions. "
+    },
+    {
+      "title": "Cyrtomium",
+      "price": "1000",
+      "type": "Fern ",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/10/8-23-700x706.jpg",
+      "description": "The Cyrtomium plant is a member of the Aspidiaceae family. This genus unites more than 10 species, and most often in room culture you can meet Cyrtomium falcatum. This plant is native to southern Africa, the islands of Hawaii, Korea, South America, India, Japan and the Himalayas. At the same time, cytomium prefers to grow in subtropical and tropical latitudes. Despite the fact that this fern is quite resistant to cold, it can only be cultivated outdoors in regions with a warm climate. At the same time, in temperate latitudes, it is recommended to grow it exclusively in indoor conditions, since in the open ground in winter it will freeze out even if there is shelter."
+    },
+    {
+      "title": "Davallia",
+      "price": "1000",
+      "type": "Fern ",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/09/2-80-700x695.jpg",
+      "description": "The davallia shrub (Davallia) is a perennial that belongs to fern plants. He is fast growing and is a member of the Davalliev family. In the people, such a plant is also called deer leg or hare's foot. In nature, it can be found in the tropical latitudes of Asia and Australia, as well as in the PRC, Japan, the island of Java and the Canary Islands. Due to its spectacular and rather unusual appearance, davallia is considered an exotic plant."
+    },
+    {
+      "title": "Asplenium",
+      "price": "1000",
+      "type": "Fern ",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/09/1-80-700x678.jpg",
+      "description": "The ornamental-deciduous plant Asplenium belongs to the Kostencovye family and is a fern. It is quite popular with flower growers. This fern is native to Southeast Asia, Australia and Malaysia. Asplenium feels great both outdoors and at home. If favorable conditions are created for the bush, it will grow thick and rather large: the width and height vary from 0.3 to 0.9 m. The foliage has a bright green color, it can be pinnately dissected or simple"
+    },
+    {
+      "title": "Pteris",
+      "price": "1000",
+      "type": "Fern ",
+      "image": "https://rastenievod.com/wp-content/uploads/2016/10/1-43-700x666.jpg",
+      "description": "A fern such as pteris (Pteris) is directly related to the pteris family. There are about 250 species of such plants.In the warm season, a temperature in the range of 20 to 22 degrees is quite suitable for him. In winter, it can withstand a drop in temperature up to 10-13 degrees. It should be borne in mind that variegated forms must be protected from a temperature drop of less than 16 degrees. The plant does not like drafts."
+    },
+    {
+      "title": "Gasteria",
+      "price": "1000",
+      "type": "Succulent",
+      "image": "https://www.gardens4you.eu/media/catalog/product/cache/10/image/500x/9df78eab33525d08d6e5fb8d27136e95/F/D/FD17911WH_15.jpg",
+      "description": "Gasteria is a succulent of the Asphodeloid family, native to the arid regions of South Africa. The plant got this strange name because of a peculiar swelling, which is found in the lower part of the perianth tube. The Latin word gasltron, which means in translation as a pot-bellied vessel, formed the basis of the name of this plant."
+    },
+    {
+      "title": "Echeveria",
+      "price": "1000",
+      "type": "Succulent",
+      "image": "https://m.media-amazon.com/images/I/61yxfJboi+L._AC_SX466_.jpg",
+      "description": "The plant Echeveria (Echeveria), which is also called echeveria, is part of the Tolstyanka family. This genus is represented by herbaceous succulent perennial plants. It unites 170 species, with the most widespread in Mexico. However, some of the species of Echeveria in natural conditions can also be found in South America and the United States. The plant was named after the Mexican artist Atanasio Echeverría y Godoy, who created illustrations for books on the flora of Mexico."
+    },
+    {
+      "title": "Crassula",
+      "price": "1000",
+      "type": "Succulent",
+      "image": "https://rastenievod.com/wp-content/uploads/2018/11/1-3-700x668.jpg",
+      "description": "The succulent plant Crassula, also called the bastard, is part of the Fat family. According to information taken from various sources, this genus unites from 300 to 500 different species. More than 200 species are found in South Africa, and a large number of species can be found in Madagascar and tropical Africa. Some of the species can be found in the southern part of the Arabian Peninsula; such a plant is widespread mainly in the Southern Hemisphere. Its name is derived from the word crassus, which translates as thick, this is due to the fact that most types of foliage has a fleshy structure"
+    },
+    {
+      "title": "Haworthia",
+      "price": "1000",
+      "type": "Succulent",
+      "image": "https://cdn11.bigcommerce.com/s-2drwt2az/images/stencil/original/products/51055/118112/apizeresu__54499.1592317196.jpg?c=2",
+      "description": "The plant Haworthia (Haworthia), belonging to the subfamily of Asphodeloids, is represented by miniature and dwarf herbaceous succulents. In the wild, they can be found in South Africa. Such a succulent was named Haworthia in honor of Adrian Haworth, who was an English botanist, who determined the place of this plant in the classification."
+    }
+  ]
+}
