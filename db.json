@@ -1,221 +1,453 @@
 {
   "plants": [
     {
-      "title": "Chlorophytum",
-      "price": "1000",
-      "type": "Ampel",
-      "image": "https://cdn11.bigcommerce.com/s-uemzj79jf9/images/stencil/2048x2048/products/1743/3808/Spider_Plant_pic1__77446.1626975447.jpg?c=2",
-      "description": "Light moderate indirect, green varieties Chlorophytum comosum carry a dark room, and in variegated varieties the bright color of the leaves is better manifested in the light. In curly chlorophytum(Chlorophytum comosum variegatum ‘Bonnie’) in the absence of light, leaves become ordinary. In all varieties and species, a more lush shrub and intensive growth is manifested in bright scattered light (east and west window)."
+      "title": "Haworthia limifolia",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/b1399834-8c43-5a8e-8ced-9d4b306a7328_large.jpg?v=1626473830",
+      "price": "23",
+      "description": "(This plant comes in a 3.5 inch pot. All of our plants are grown under the same conditions, although not all the plants are the same. You will receive a similar plant in size and shape to the ones in the pictures. Our plants are hand-picked and carefully selected to bring you the best quality possible. Please allow us up to 3 business days to process your order. If you wish to receive your order on a specific date, or have special instructions, please add a note at the checkout . The plant is shipped in its pot to prevent any damage to the roots).This plant is also known as Fairy Washboard and is slow growing. It is a succulent that has rosettes that grow up to 4 inches in diameter. The leaves have a rigid washboard appearance and the leaves are cream, green and yellow with flowers that are withe, tubular and come out as clusters on a stem that is up to 14 inches tall.",
+      "status": false,
+      "likes": [
+        "kageyama@gmail.com",
+        "aizhan@gmail.com",
+        "aizhan@mail.com",
+        "ai@gmail.com"
+      ]
     },
     {
-      "title": "Нedera",
-      "price": "1000",
-      "type": "Ampel",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/05/6-55.jpg",
-      "description": "Bright diffused light is required for variegated forms and for H.canariensis (however, it is pritenyat from direct sun). For green plants, the north window is suitable, can adapt to shaded areas and penumbraes, and also grow under artificial illumination."
+      "title": "Puna Cumulopuntia",
+      "type": "Cacti",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/9b4fa76e-6b60-5eea-8aca-7ea3cf1ea92d_360x.jpg?v=1627170730",
+      "price": 23,
+      "description": "This small cactus has very tuberous roots that remains half buried in habitat, showing approximately 1 cm from the ground. Plants have usually few segments (up to 6). But at the northern localities this species can grow with dozens of segments. Can form large clumps with more than 100 heads.The flower colour ranges from brown to deep rose red to a pale yellowish rose and rare, but possible with almost white. Pericarpels without areoles but with a few scales bearing hairs and long bristles in the axils. The flowering is diurnal and takes place during the summer. This species resists cold well if it is dry and need to be kept in a cool place during winter rest (this is important for the flowers as well as for their health) Without this cool winter period they normally wont get many buds. They need a sufficient amount of air.",
+      "status": false,
+      "likes": [
+        "kageyama@gmail.com",
+        "aizhan@mail.com"
+      ],
+      "id": 2
     },
     {
-      "title": "Epipremnum",
-      "type": "Ampel",
-      "price": "1000",
-      "image": "https://www.gardenclick.it/36441-large_default/pothos-epipremnum-aureum-oder-scindapsus-aurens.jpg",
-      "description": "Very easily multiply by apical cuttings bearing at least two leaves. The stalk is planted in a mixture of peat and moss. Root at a temperature of 68-71,6 ° F, covering the container with glass or polyethylene. The easiest way is to propagate a plant by rooting cuttings in spring water."
+      "title": "Crassula ovata",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/9a54aba3-e664-5b08-a5a9-56318686465d_360x.jpg?v=1626595512",
+      "price": "15",
+      "description": "Crassula ovata cv. Lemon & Lime (Variegated Jade Plant) is a spectacular slow growing cultivar close in appearance to the common jade plant but with shiny cream stripes on spoon-shaped leaves. Just as its all green cousin it is a many-branching succulent shrub with a stout trunk up to 120-180 cm tall.Cultivation and Propagation: Crassula ovata cv. Lemon & Lime can make a nice low succulent shrublet in the garden, does well in containers, and makes a good houseplant. It is widely grown and not difficult to cultivate. They thrive with bright light and ample airflow. Tolerates very dry conditions but looks best with occasional water.",
+      "status": false,
+      "likes": [
+        "kageyama@gmail.com",
+        "aizhan@mail.com"
+      ],
+      "id": 3
     },
     {
-      "title": "Leptospermum",
-      "price": "1000",
-      "type": "Bonsai",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/05/6-55.jpg",
-      "description": "Plants in the genus Leptospermum range in size from prostrate shrubs to small trees, and have fibrous, flaky or papery bark. The leaves are arranged alternately and are relatively small, rigid and often aromatic when crushed. The flowers may be solitary or in groups, and have bracteoles and sepals which in most species fall off as the flower opens. There are five spreading, conspicuous petals which are white, pink or red. There are many stamens which are usually shorter than the petals and in five groups opposite the stamens, although they often appear not to be grouped. A simple style usually arises from a small depression in the ovary which has from three to five sections in most species, each section containing a few to many ovules. The fruit is a woody capsule which opens at the top to release the seeds, although in some species this does not occur until the plant, or the part of it, dies."
+      "title": "Aloe pictifolia",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/115ca112-412e-588c-9f84-eeeedcb4b824_large.jpg?v=1626588210",
+      "price": 10,
+      "description": " Aloe pictifolia (Speckled Aloe) is an attractive small aloe up to 10 inches tall that slowly forms small groups of leaf rosettes. The blue-grey-green leaves are ornamented with many white spots. Out of habitat, this plant is reminiscent of Aloe microstigma, to which it is probably closely related.Derivation of specific name: The name 'pictifolia' means 'painted leaves', a reference to the extensively white-spotted surface its leaves.Habit Plants usually form small to dense groups of up to seven rosettes 20-25 cm in diameter.Cultivation and Propagation: Aloe pictifolia is easy to grow, requiring very little care. In the wild this plant grows on cliffs. Easy to grow and good for small pots. Suckers vigorously.",
+      "status": false,
+      "likes": [
+        "kageyama@gmail.com"
+      ],
+      "id": 4
     },
     {
-      "title": "Ficus Benjamini",
-      "price": "1000",
-      "type": "Bonsai",
-      "image": "https://bonsaihaat.in/wp-content/uploads/2020/06/Ficus-Benjamina-bonsai-informal-upright.jpg",
-      "description": "This tropical and evergreen plant belongs to Southwest Asia where it is naturally grown. Most popular in indoor bonsai, ficus is a low-maintenance plant and the best for bonsai beginners. Thick and dense canopy with dark and light green leaves make the bonsai attractive."
+      "title": "Donkey's Tail",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/9bd1f47b-2ae5-52c3-bc83-d7249c03c874_360x.jpg?v=1626586082",
+      "price": 11,
+      "description": "Sedum burrito is always an interesting plant and easy to grow in container or in the rock garden in warm areas. It is tough, sun and drought tolerant, but also will do well in partial shade. Few plants need less attention than sedums. The plants make active growth in fall/winter, unlike most other stonecrop and propagate easily.Soil: Porous soil with adequate drainage.",
+      "status": false,
+      "likes": [
+        "kageyama@gmail.com"
+      ],
+      "id": 5
     },
     {
-      "title": "Portulacaria Afra",
-      "price": "1000",
-      "type": "Bonsai",
-      "image": "https://i.pinimg.com/originals/f1/93/89/f193890eba7afea8c9b09db026c6ff15.jpg",
-      "description": "It is an evergreen, richly branched shrub with reddish twigs and glossy, broad, wedge-shaped leaves that may be red-edged. This succulent plant can grow up to 3.5 meters in its home, the arid regions of South Africa, and looks like a small wildly branched cripple tree, as it serves as food for cattle and game."
+      "title": "Thelocactus bueckii",
+      "type": "Cacti",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/1ad76bc1-201e-5dcd-98e8-aec44d521760_540x.jpg?v=1626594399",
+      "price": 9,
+      "description": "This small cactus has very tuberous roots that remains half buried in habitat, showing approximately 1 cm from the ground. Plants have usually few segments (up to 6). But at the northern localities this species can grow with dozens of segments. Can form large clumps with more than 100 heads.The flower colour ranges from brown to deep rose red to a pale yellowish rose and rare, but possible with almost white. Pericarpels without areoles but with a few scales bearing hairs and long bristles in the axils. The flowering is diurnal and takes place during the summer. This species resists cold well if it is dry and need to be kept in a cool place during winter rest (this is important for the flowers as well as for their health) Without this cool winter period they normally wont get many buds. They need a sufficient amount of air.",
+      "status": false,
+      "likes": [],
+      "id": 6
     },
     {
-      "title": "Tillandsia Antonio",
-      "price": "1000",
-      "type": "Bromeliad",
-      "image": "https://www.australianplantsonline.com.au/media/catalog/product/cache/c9a4c2319e3118c983ed47a73d21fbe0/t/i/tillandsia-antonio---t2091-500.jpg",
-      "description": "Very scarce and unusual! Bigger, bolder, with the spoon-shaped pink 'flowers' like Tillandsia cyanea, but this time branching to create a multi-layer flower spike! The candy pink spoon produces the true flowers, small vivid purple florets, which appear like tiny butterflies."
+      "title": "Echeveria Rain",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/8202d5af-a59f-5f31-ab58-bc8f8389e246_360x.jpg?v=1626599996",
+      "price": 15,
+      "description": "Echeveria 'Raindrops' is a solitary plant, up to 6 (15 cm) across, with pale green rounded leaves with pale reddish margins and a single globular blue-green bump in the middle of each leaf toward the tip that develops with age. These bumps, similar to a water droplet, are what give this unique plant its name.How to grow and care: First, be careful never to let water sit in the rosette as it can cause rot or fungal diseases that will kill the plant. Additionally, remove dead leaves from the bottom of the plant as it grows.Water Requirements: Drought-tolerant",
+      "status": false,
+      "likes": [],
+      "id": 7
     },
     {
-      "title": "Guzmania",
-      "price": "1000",
-      "type": "Bromeliad",
-      "image": "https://olivehill.net/wp-content/uploads/2016/12/04GuzmaniaVariada-800x800.jpg",
-      "description": "Like the other bromeliads, Guzmanias prefer and are happiest in bright, natural light.  An east or west exposure would be best but just be sure they avoid exposure to any direct, hot sun because they’ll burn.  They’ll be fine in low light for a few weeks, but they won’t be as long-lasting. If you want them for the long haul & have them produce pups, bright light is the ticket."
+      "title": "Green Coral",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/f85179bd41475dc4814bc7d222e9df96_360x.jpg?v=1626594352",
+      "price": 16,
+      "description": "This plant comes in a 3.5 pot. You will receive a very similar plant to the one in the picture. It may or may not be blooming at the time of your purchase. This plant is shipped in its pot to prevent any damage to the roots).Euphorbia flanaganii, native to South Africa, is one of the medusoids, or plants forming a central basal caudex with arms arising from the basal area. This is the cristate form, which forms deep emerald green fan-shaped stems that resemble green coral.",
+      "status": false,
+      "likes": [],
+      "id": 8
     },
     {
-      "title": "Echinocactus",
-      "price": "1000",
-      "type": "Cactus",
-      "image": "https://cdn11.bigcommerce.com/s-oqm1pc/images/stencil/1280x1280/products/3467/10534/golden_barrel2__59831.1570553417.jpg?c=2",
-      "description": "This cactus variety will not survive a hard frost, but if there is a risk of freezing temperatures it can be brought indoors to grow on a sunny window sill or under a grow light. Cactus need bright sunlight, great drainage, and infrequent water to prevent rot. Pick containers with drainage holes and use well-draining cactus and succulent soil with 70% to 80% mineral grit such as coarse sand, pumice, or perlite. Water deeply and wait for the soil to completely dry out before watering again."
+      "title": "Rebutia muscula",
+      "type": "Cacti",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/010d6a2e-6153-5718-8df8-431cdd34f0df_large.jpg?v=1626598167",
+      "price": "13",
+      "description": "This small cactus has very tuberous roots that remains half buried in habitat, showing approximately 1 cm from the ground. Plants have usually few segments (up to 6). But at the northern localities this species can grow with dozens of segments. Can form large clumps with more than 100 heads.The flower colour ranges from brown to deep rose red to a pale yellowish rose and rare, but possible with almost white. Pericarpels without areoles but with a few scales bearing hairs and long bristles in the axils. The flowering is diurnal and takes place during the summer. This species resists cold well if it is dry and need to be kept in a cool place during winter rest (this is important for the flowers as well as for their health) Without this cool winter period they normally wont get many buds. They need a sufficient amount of air.",
+      "status": false,
+      "likes": [],
+      "id": 9
     },
     {
-      "title": "Cereus",
-      "price": "1000",
-      "type": "Cactus",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/12/3-47-700x691.jpg",
-      "description": "Cereus are shrubby or treelike, often attaining great heights (C. hexagonus, C. lamprospermus, C. trigonodendron up to 15 m). Most stems are angled or distinctly ribbed, ribs 3–14 cm long, usually well developed and have large areoles, usually bearing spines. Cephalium is not present, Cereus mortensenii develops pseudocephalium. Flowers are large, funnelform, 9–30 cm long, usually white, sometimes pink, purple, rarely cream, yellow, greenish, and open at night. Fruits are globose to ovoid to oblong, 3–13 cm long, fleshy, naked, usually red but sometimes yellow, pulp white, pink or red. Seeds large, curved ovoid, glossy black."
+      "title": "Kalanchoe orgyalis",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/3abd1d0e-55b5-5501-88d1-761cbfd940bf_360x.jpg?v=1626595597",
+      "price": 10,
+      "description": "It needs moderate watering in autumn and spring while in summer it should be watered thoroughly and allowed to dry before watering again. In winter give only occasional watering (only when the plant starts shriveling), but it will generally grow even in winter if given water. These plants will survive on neglect. Over-watering is the most common cause of plant failure.Frost resistance: Prefers warm temperatures, minimum winter temperature 5° C.",
+      "status": false,
+      "likes": [
+        "jan@mail.ru"
+      ],
+      "id": 10
     },
     {
-      "title": "Astrophytum",
-      "price": "1000",
-      "type": "Cactus",
-      "image": "https://i.pinimg.com/originals/92/ed/fb/92edfb87d8618511593eb1b438298f0a.jpg",
-      "description": "The species of the genus Astrophytum usually grow individually with spherical to columnar green shoots and reach heights of up to 1.5 meters. The shoots are often densely covered with fine white tufts of hair, but sometimes they are completely bald. There are four to ten (rarely three) very noticeable ribs that are not divided into cusps. The large areoles stand close together, but do not merge. The spike is variable. Thorns may be present or may be missing entirely."
+      "title": "Crassula tetragona",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/d604600b-e4f8-5537-8ebb-875a400e4523_360x.jpg?v=1626591760",
+      "price": 16,
+      "description": "This plant comes in a 3.5 pot. You will receive a very similar plant to the one in the picture. It may or may not be blooming at the time of your purchase. This plant is shipped in its pot to prevent any damage to the roots).Euphorbia flanaganii, native to South Africa, is one of the medusoids, or plants forming a central basal caudex with arms arising from the basal area. This is the cristate form, which forms deep emerald green fan-shaped stems that resemble green coral.",
+      "status": false,
+      "likes": [],
+      "id": 11
     },
     {
-      "title": "Oncidium",
-      "price": "1000",
-      "type": "Orchid",
-      "image": "https://secure.img1-fg.wfcdn.com/im/67857590/compr-r85/5601/56011186/oncidium-orchids-floral-arrangement-in-pot.jpg",
-      "description": "The Oncidium orchids also are known as dancing-lady orchids, flowers in bright cheerful colors are a classic favorite for the home. Natural looking blossoms greet the eyes in the mossed terracotta pot."
+      "title": "Haworthia zebra",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/304455a2-4342-5bda-b9e3-70c90c6cef51_360x.jpg?v=1626625109",
+      "price": 18,
+      "description": "This plant comes in a 3.5 pot. You will receive a very similar plant to the one in the picture. It may or may not be blooming at the time of your purchase. This plant is shipped in its pot to prevent any damage to the roots).Euphorbia flanaganii, native to South Africa, is one of the medusoids, or plants forming a central basal caudex with arms arising from the basal area. This is the cristate form, which forms deep emerald green fan-shaped stems that resemble green coral.",
+      "status": false,
+      "likes": [],
+      "id": 12
     },
     {
-      "title": "Vanda",
-      "price": "1000",
-      "type": "Orchid",
-      "image": "https://images.creativemarket.com/0.1.0/ps/2810980/2688/3024/m1/fpnw/wm0/vanda-.jpg?1496778598&s=37f715801753ba0ab54c1bd151bb5f93",
-      "description": "Vandas are native to Southeast Asia. Most varieties prefer bright light and warmth as well as a reasonable degree of humidity. These plants are known for their large flower size and vibrant colors.Vandas are grown in teak baskets or in pots. For most household conditions, pots are best because they hold more moisture around the roots."
-    },
-    {
-      "title": "Miltonia",
-      "price": "1000",
-      "type": "Orchid",
-      "image": "https://img.crocdn.co.uk/images/products2/pl/20/00/03/24/pl2000032440.jpg?width=940&height=940",
-      "description": "Water weekly by sitting the pot in a tray of water (or the kitchen sink) for 15 minutes so it can soak up as much as it likes, then leave it to drain thoroughly before moving it back into position. Maintain temperatures around 15-24°C and keep it in a bright spot with protection from direct sunshine during spring and summer. Don't worry if the roots grow outside the pot. In their native environment, they grow in the crooks of branches, and use these aerial roots to absorb water from the air. They do not mind being overcrowded in their pots, so you only need to repot them when the growth starts to suffer."
-    },
-    {
-      "title": "Ascocentrum",
-      "price": "1000",
-      "type": "Orchid",
-      "image": "https://live.staticflickr.com/3854/14341575971_562c14d258_b.jpg",
-      "description": "Ascocentrum is a genus of epiphytic monopodial orchids. The plants are typically compact and resemble miniature vandas. With the publication of Genera Orchidacearum volume 6, all Ascocentrum species are now included in the genus Vanda. Affected hybrid names are explained on this website here. These species produce upright, densely-flowered inflorescences in shades of bright golden yellow to orange-red or fuchsia-pink. Bloom season is usually late spring."
-    },
-    {
-      "title": "Dendrobium",
-      "price": "1000",
-      "type": "Orchid",
-      "image": "https://media.istockphoto.com/photos/flowering-orchid-dendrobium-nobile-in-pot-isolated-on-white-picture-id868819444",
-      "description": "Dendrobium is a genus of mostly epiphytic and lithophytic orchids in the family Orchidaceae. It is a very large genus, containing more than 1,800 species that are found in diverse habitats throughout much of south, east and southeast Asia, including China, Japan, India, the Philippines, Indonesia, Australia, New Guinea, Vietnam and many of the islands of the Pacific. Orchids in this genus have roots that creep over the surface of trees or rocks, rarely having their roots in soil. Up to six leaves develop in a tuft at the tip of a shoot and from one to a large number of flowers are arranged along an unbranched flowering stem. "
-    },
-    {
-      "title": "Cattleya",
-      "price": "1000",
-      "type": "Orchid",
-      "image": "https://cdn.shopify.com/s/files/1/0108/5782/products/PinkCattleyaOrchidPlant.jpg?v=1601314333",
-      "description": "Cattleyas thrive with a day temperature range between 70 and 80 degrees F. At night there should be at least a 10-degree drop, around 60-64 degrees F. This lower night temperature will help initiate flower buds and will promote stronger growth. Keeping the plants near a window is important if you do not provide artificial light. Cattleyas can be grown outside from June to late fall in areas with filtered light. Direct sun will burn the leaves. If you live in an area where snow falls (like here in Minnesota), you can leave Cattleyas outside until the first frost."
-    },
-    {
-      "title": "Rhipsalidopsis",
-      "price": "1000",
-      "type": "Cactus",
-      "image": "https://www.logees.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/7/s7835-4-large.jpg",
-      "description": "Easter Cactus (Rhipsalidopsis), or Spring Cactus, bloom in many cheery colors and the flowers arrive in profusion from March until May. Their star-shaped blooms open at sunrise and close at sunset and last for several weeks. Easter Cacti are native epiphytes and grow in the upper story of the trees in the forests of eastern Brazil. Knowing a plant’s native habitat is good information because it provides the gardener with tips on how to be successful when growing the plant."
-    },
-    {
-      "title": "Rebutia",
-      "price": "1000",
-      "type": "Cactus",
-      "image": "http://www.llifle.com/photos/Rebutia_vulpina_7195_l.jpg",
-      "description": "Rebutia is a genus of flowering plants in the family Cactaceae, native to Bolivia and Argentina. They are generally small, colorful cacti, globular in form, which freely produce flowers that are relatively large in relation to the body. They have no distinctive ribs, but do have regularly arranged small tubercles. They are considered fairly easy to grow and they may produce large quantities of seeds that germinate freely around the parent plant."
+      "title": "Agave toumeyana",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/087b50ae-41db-5332-a5a5-8f8036f39547_360x.jpg?v=1626589090",
+      "price": 20,
+      "description": "This plant comes in a 3.5 pot. You will receive a very similar plant to the one in the picture. It may or may not be blooming at the time of your purchase. This plant is shipped in its pot to prevent any damage to the roots).Euphorbia flanaganii, native to South Africa, is one of the medusoids, or plants forming a central basal caudex with arms arising from the basal area. This is the cristate form, which forms deep emerald green fan-shaped stems that resemble green coral.",
+      "status": false,
+      "likes": [],
+      "id": 13
     },
     {
       "title": "Mammillaria",
-      "price": "1000",
-      "type": "Cactus",
-      "image": "https://fickleprickles.com.au/539-large_default/mammillaria-zeilmanniana.jpg",
-      "description": "Mammillaria is one of the largest genera in the cactus family (Cactaceae), with currently 200 known species and varieties recognized.[1] Most of the mammillaria are native to Mexico, but some come from the southwest United States, the Caribbean, Colombia, Venezuela, Guatemala and Honduras.[2] The common name pincushion cactus refers to this and the closely related genus Escobaria."
+      "type": "Cacti",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/4c52d743-1ee5-5ee7-9cd0-4cdaeb9b8483_360x.jpg?v=1626595396",
+      "price": 12,
+      "description": "This small cactus has very tuberous roots that remains half buried in habitat, showing approximately 1 cm from the ground. Plants have usually few segments (up to 6). But at the northern localities this species can grow with dozens of segments. Can form large clumps with more than 100 heads.The flower colour ranges from brown to deep rose red to a pale yellowish rose and rare, but possible with almost white. Pericarpels without areoles but with a few scales bearing hairs and long bristles in the axils. The flowering is diurnal and takes place during the summer. This species resists cold well if it is dry and need to be kept in a cool place during winter rest (this is important for the flowers as well as for their health) Without this cool winter period they normally wont get many buds. They need a sufficient amount of air.",
+      "status": false,
+      "likes": [
+        "aizhan@mail.com"
+      ],
+      "id": 14
     },
     {
-      "title": "Syngonium",
-      "price": "1000",
-      "type": "Ampel",
-      "image": "https://www.logees.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/y/syngonium_pixie.jpg",
-      "description": "Although these plants are extremely low light tolerant, they will grow faster and maintain their vibrant coloring and markings if grown in medium to bright indirect light. Direct sun will scorch their leaves. Allow these indoor plants to dry out partially between watering. If left dry for too long the lower leaves will dry up and turn brown. If this happens, soak the soil and let the plant rehydrate."
+      "title": "Peperomia ferryrae",
+      "type": "Succulents",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/6589bce2-8497-50da-9c6d-2579d1d8d0ff_360x.jpg?v=1626616660",
+      "price": 14,
+      "description": "Cultivation and propagation: The succulent peperomias, like Peperomia ferreyrae, are epiphytes and require the same treatment as rhipsalis. They are not hard to grow but avoid over-watering. In warm, sub-tropical or tropical areas, these plants maybe grown outside as a ground cover.Soil: Requires very porous soil with excellent drainage. These plants like to be a little pot bound. Outdoors, grow in well-drained soil in partial shade.Watering: You must go rather easy on the watering, as it is rather sensitive to over- watering. Water moderately during summer but allow to dry moderately between waterings and sparingly during winter with water that is room temperature. Though you hear that these plants favor daily misting, it is not necessary, especially if room is not overly dry. ",
+      "status": false,
+      "likes": [],
+      "id": 15
     },
     {
-      "title": "Tradescantia",
-      "price": "1000",
-      "type": "Ampel",
-      "image": "https://www.gardenersdream.co.uk/images/tradescantia-zebrina-wandering-jew-p4821-37957_zoom.jpg",
-      "description": "Tradescantia like bright, indirect light. They need a good amount of light and if they don’t get it, you’ll notice that their leaf markings begin to fade. Direct sun, however, will scorch their leaves (with the exception being the purple queen variety, which loves full sun).Tradescantia thrive in temperatures between 60 and 80 degrees, so they do well in typical indoor temperatures. Outdoors, they prefer a mild climate that doesn’t drop below 50 degrees. Frost will kill them."
+      "title": "Mammillaria",
+      "type": "Сacti",
+      "img": "https://cdn.shopify.com/s/files/1/0968/5384/products/f78794c4-54b2-56bc-bbe3-eff04219a496_360x.jpg?v=1626586103",
+      "price": 11,
+      "description": "This small cactus has very tuberous roots that remains half buried in habitat, showing approximately 1 cm from the ground. Plants have usually few segments (up to 6). But at the northern localities this species can grow with dozens of segments. Can form large clumps with more than 100 heads.The flower colour ranges from brown to deep rose red to a pale yellowish rose and rare, but possible with almost white. Pericarpels without areoles but with a few scales bearing hairs and long bristles in the axils. The flowering is diurnal and takes place during the summer. This species resists cold well if it is dry and need to be kept in a cool place during winter rest (this is important for the flowers as well as for their health) Without this cool winter period they normally wont get many buds. They need a sufficient amount of air.",
+      "status": false,
+      "likes": [],
+      "id": 16
     },
     {
-      "title": "Gynura",
-      "price": "1000",
-      "type": "Ampel",
-      "image": "https://www.cowellsgc.co.uk/files/images/webshop/gynura-purple-passion-1603195930-1_l.jpg",
-      "description": "This herbaceous evergreen in the Asteraceae family is commonly grown as a houseplant. It is best displayed in a hanging basket and is noted for its unusual velvety purple leaves and stems.  Bright, indirect light with protection from the afternoon sun will result in the best foliage color. Soil should be kept moist with less frequent watering in winter as overwatering may cause rot.  Clusters of tiny orange-yellow flowers appear in the fall but may not appear in low-light conditions. "
+      "title": "Rock Juniper",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/805590-03-2T.jpg?v-cache=1474380777",
+      "price": 11,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [
+        "aizhan@mail.com"
+      ],
+      "id": 17
     },
     {
-      "title": "Cyrtomium",
-      "price": "1000",
-      "type": "Fern ",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/10/8-23-700x706.jpg",
-      "description": "The Cyrtomium plant is a member of the Aspidiaceae family. This genus unites more than 10 species, and most often in room culture you can meet Cyrtomium falcatum. This plant is native to southern Africa, the islands of Hawaii, Korea, South America, India, Japan and the Himalayas. At the same time, cytomium prefers to grow in subtropical and tropical latitudes. Despite the fact that this fern is quite resistant to cold, it can only be cultivated outdoors in regions with a warm climate. At the same time, in temperate latitudes, it is recommended to grow it exclusively in indoor conditions, since in the open ground in winter it will freeze out even if there is shelter."
+      "title": "Boxwood",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/800620-03-2T.jpg?v-cache=1617296371",
+      "price": 45,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [],
+      "id": 18
     },
     {
-      "title": "Davallia",
-      "price": "1000",
-      "type": "Fern ",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/09/2-80-700x695.jpg",
-      "description": "The davallia shrub (Davallia) is a perennial that belongs to fern plants. He is fast growing and is a member of the Davalliev family. In the people, such a plant is also called deer leg or hare's foot. In nature, it can be found in the tropical latitudes of Asia and Australia, as well as in the PRC, Japan, the island of Java and the Canary Islands. Due to its spectacular and rather unusual appearance, davallia is considered an exotic plant."
+      "title": " Elm Bonsai ",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/801970-03-1.jpg?v-cache=1474386688",
+      "price": 98,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [],
+      "id": 19
     },
     {
-      "title": "Asplenium",
-      "price": "1000",
-      "type": "Fern ",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/09/1-80-700x678.jpg",
-      "description": "The ornamental-deciduous plant Asplenium belongs to the Kostencovye family and is a fern. It is quite popular with flower growers. This fern is native to Southeast Asia, Australia and Malaysia. Asplenium feels great both outdoors and at home. If favorable conditions are created for the bush, it will grow thick and rather large: the width and height vary from 0.3 to 0.9 m. The foliage has a bright green color, it can be pinnately dissected or simple"
+      "title": "Satsuki Azalea",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/809030-03-2T.jpg?v-cache=1618402501",
+      "price": 50,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [],
+      "id": 20
     },
     {
-      "title": "Pteris",
-      "price": "1000",
-      "type": "Fern ",
-      "image": "https://rastenievod.com/wp-content/uploads/2016/10/1-43-700x666.jpg",
-      "description": "A fern such as pteris (Pteris) is directly related to the pteris family. There are about 250 species of such plants.In the warm season, a temperature in the range of 20 to 22 degrees is quite suitable for him. In winter, it can withstand a drop in temperature up to 10-13 degrees. It should be borne in mind that variegated forms must be protected from a temperature drop of less than 16 degrees. The plant does not like drafts."
+      "title": "Red Ruby Gem",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/801860-03-2T.jpg?v-cache=1520335574",
+      "price": 57,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [],
+      "id": 21
     },
     {
-      "title": "Gasteria",
-      "price": "1000",
-      "type": "Succulent",
-      "image": "https://www.gardens4you.eu/media/catalog/product/cache/10/image/500x/9df78eab33525d08d6e5fb8d27136e95/F/D/FD17911WH_15.jpg",
-      "description": "Gasteria is a succulent of the Asphodeloid family, native to the arid regions of South Africa. The plant got this strange name because of a peculiar swelling, which is found in the lower part of the perianth tube. The Latin word gasltron, which means in translation as a pot-bellied vessel, formed the basis of the name of this plant."
+      "title": "Yaupon Holly",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/803680-03-0819-002-2T.jpg?v-cache=1564758233",
+      "price": 97,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [],
+      "id": 22
     },
     {
-      "title": "Echeveria",
-      "price": "1000",
-      "type": "Succulent",
-      "image": "https://m.media-amazon.com/images/I/61yxfJboi+L._AC_SX466_.jpg",
-      "description": "The plant Echeveria (Echeveria), which is also called echeveria, is part of the Tolstyanka family. This genus is represented by herbaceous succulent perennial plants. It unites 170 species, with the most widespread in Mexico. However, some of the species of Echeveria in natural conditions can also be found in South America and the United States. The plant was named after the Mexican artist Atanasio Echeverría y Godoy, who created illustrations for books on the flora of Mexico."
+      "title": "Miniature Mugo",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/101470-06-2T.jpg?v-cache=1543421939",
+      "price": 100,
+      "description": "This version of our trained rock juniper features an older tree. Trunk size is on the tree is much larger, taller and arrives with denser foliage for a more powerful appearance. Arrives with antique stone. Tree arrives styled. However, the tree can also be shaped with additional wire for those looking to move branches into different positions. Foliage can also be pruned to maintain shape as growth occurs.Juniper bonsai, aged 7-9 years old, measures between 12 to 15 in height potted. Arrives in a 10 ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary. Since these trees are trained, it may arrive with wire on branches during training. Pot may vary depending on availability.",
+      "status": false,
+      "likes": [],
+      "id": 23
     },
     {
-      "title": "Crassula",
-      "price": "1000",
-      "type": "Succulent",
-      "image": "https://rastenievod.com/wp-content/uploads/2018/11/1-3-700x668.jpg",
-      "description": "The succulent plant Crassula, also called the bastard, is part of the Fat family. According to information taken from various sources, this genus unites from 300 to 500 different species. More than 200 species are found in South Africa, and a large number of species can be found in Madagascar and tropical Africa. Some of the species can be found in the southern part of the Arabian Peninsula; such a plant is widespread mainly in the Southern Hemisphere. Its name is derived from the word crassus, which translates as thick, this is due to the fact that most types of foliage has a fleshy structure"
+      "title": "White Blossom",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/801470-03-2T.jpg?v-cache=1474457587",
+      "price": 49,
+      "description": "This flowering bonsai produces blooms during the spring and during the fall with the proper care. The Satsuki Azalea - Limelight features beautiful small white blooms. The Azalea does best in a filtered light with daily watering, keeping the tree and soil moist at all times. The bonsai's soft green leaves and blooms are contrasted by a natural ceramic rectangle pot. Ceramic pot measures approximately 7.5. Pot may vary depending on availability. Bonsai stands approximately 8-11 tall potted.Bonsai shape may vary from shown. Care information included.",
+      "status": false,
+      "likes": [],
+      "id": 24
     },
     {
-      "title": "Haworthia",
-      "price": "1000",
-      "type": "Succulent",
-      "image": "https://cdn11.bigcommerce.com/s-2drwt2az/images/stencil/original/products/51055/118112/apizeresu__54499.1592317196.jpg?c=2",
-      "description": "The plant Haworthia (Haworthia), belonging to the subfamily of Asphodeloids, is represented by miniature and dwarf herbaceous succulents. In the wild, they can be found in South Africa. Such a succulent was named Haworthia in honor of Adrian Haworth, who was an English botanist, who determined the place of this plant in the classification."
+      "title": "Tea Tree",
+      "type": "Bonsai",
+      "img": "https://www.easternleaf.com/v/vspfiles/photos/101460-06-2T.jpg?v-cache=1474468607",
+      "price": 87,
+      "description": "This flowering bonsai produces blooms during the spring and during the fall with the proper care. The Satsuki Azalea - Limelight features beautiful small white blooms. The Azalea does best in a filtered light with daily watering, keeping the tree and soil moist at all times. The bonsai's soft green leaves and blooms are contrasted by a natural ceramic rectangle pot. Ceramic pot measures approximately 7.5. Pot may vary depending on availability. Bonsai stands approximately 8-11 tall potted.Bonsai shape may vary from shown. Care information included.",
+      "status": false,
+      "likes": [],
+      "id": 25
+    },
+    {
+      "title": "Dendrobium Orchid",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-orchid-plant-dendrobium-orchid-any-variety-yellow-plant-16969146990732_600x600.jpg?v=1601347255",
+      "price": 57,
+      "description": "Dendrobium Orchid has Yellow coloured flower; which beautify to your flower garden.This product has the yellow coloured flowers at the time of shipping.Dendrobium Orchids have their profuse, delicate blooms, and evergreen leaves with the hard caned.Their life cycle consists of three stages, which include the flowering stage (winter to spring), the growing phase (summer to autumn) and dormancy (late autumn to winter).",
+      "status": false,
+      "likes": [],
+      "id": 26
+    },
+    {
+      "title": "Kleopatra",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-phalaenopsis-kleopatra-ff-orchid-yellow-and-pink-plant-16969182281868_600x600.jpg?v=1601346811",
+      "price": 78,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 27
+    },
+    {
+      "title": "Aridang Green",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-orchid-plant-dendrobium-orchid-aridang-green-plant-16969146892428_517x517.jpg?v=1601351131",
+      "price": 34,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 28
+    },
+    {
+      "title": "Aridang Blue",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-orchid-plant-dendrobium-orchid-aridang-blue-plant-16969146761356_600x600.jpg?v=1601348029",
+      "price": 45,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 29
+    },
+    {
+      "title": "Visa Peach",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-orchid-plant-dendrobium-orchid-visa-peach-plant-16969149546636_600x600.jpg?v=1601347889",
+      "price": 53,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 30
+    },
+    {
+      "title": "Phalaenopsis Cream",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-phalaenopsis-cream-plant_600x600.jpg?v=1610686866",
+      "price": 66,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 31
+    },
+    {
+      "title": "Phalaenopsis White",
+      "type": "Orchid",
+      "img": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-phalaenopsis-white-a-pink-plant_600x600.jpg?v=1610792240",
+      "price": 11,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 32
+    },
+    {
+      "title": "Nephrolepis",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Nephrolepis-exaltata-Bostoniensis-Boston-Fern-Large_5000x.jpg?v=1569083516",
+      "price": 17,
+      "description": "Decorate your table, room or house with Phalaenopsis Kleopatra FF Orchid which has the yellow and pink colour combination flower.This product has the yellow and pink colour combination flowers at the time of shipping. Phalaenopsis orchid has a single growing stem produces one or two alternate, thick, fleshy, compact leaves. The inflorescence of this orchid is a raceme or panicle appears from the stem.This bloom can live for several weeks. If kept in indoor condition, the flowers may be live last two to three months.",
+      "status": false,
+      "likes": [],
+      "id": 33
+    },
+    {
+      "title": "Chlorophytum Ocean",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Chlorophytum-Ocean-Spider-Plant_ad5b87b5-b3ad-4a3d-8d8b-6991cea73bff_5000x.jpg?v=1569062496",
+      "price": 11,
+      "description": "Chlorophytum comosum Ocean is a compact spider plant, looking a little like Variegatum, with creamy margins and a green centre. It is an attractive, cascading plant, with small white flowers and 'babies' forming on long, narrow stems called runners. Ideal as a hanging plant.",
+      "status": false,
+      "likes": [],
+      "id": 34
+    },
+    {
+      "title": "Peperomia",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Peperomia-rotundifolia-Trailing-Jade-Plant_5000x.jpg?v=1601636141",
+      "price": 13,
+      "description": "Chlorophytum comosum Ocean is a compact spider plant, looking a little like Variegatum, with creamy margins and a green centre. It is an attractive, cascading plant, with small white flowers and 'babies' forming on long, narrow stems called runners. Ideal as a hanging plant.",
+      "status": false,
+      "likes": [],
+      "id": 35
+    },
+    {
+      "title": "Phlebodium Blue Star",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Phlebodium-Blue-Star-Blue-Star-Fern_5000x.jpg?v=1569061421",
+      "price": 21,
+      "description": "Chlorophytum comosum Ocean is a compact spider plant, looking a little like Variegatum, with creamy margins and a green centre. It is an attractive, cascading plant, with small white flowers and 'babies' forming on long, narrow stems called runners. Ideal as a hanging plant.",
+      "status": false,
+      "likes": [],
+      "id": 36
+    },
+    {
+      "title": "Phlebodium davana",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Phlebodium-davana-Blue-Star-Fern-12cm_ddaf9484-a45b-4414-8fcc-275e778050df_5000x.jpg?v=1622635690",
+      "price": 9,
+      "description": "Chlorophytum comosum Ocean is a compact spider plant, looking a little like Variegatum, with creamy margins and a green centre. It is an attractive, cascading plant, with small white flowers and 'babies' forming on long, narrow stems called runners. Ideal as a hanging plant.",
+      "status": false,
+      "likes": [],
+      "id": 37
+    },
+    {
+      "title": "Asparagus setaceus",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Asparagus-setaceus-60cm_5000x.jpg?v=1568850344",
+      "price": 11,
+      "description": "Chlorophytum comosum Ocean is a compact spider plant, looking a little like Variegatum, with creamy margins and a green centre. It is an attractive, cascading plant, with small white flowers and 'babies' forming on long, narrow stems called runners. Ideal as a hanging plant.",
+      "status": false,
+      "likes": [],
+      "id": 38
+    },
+    {
+      "title": "Adiantum Fragrans ",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Adiantum-Fragrans-Delta-Maidenhair-Fern_5000x.jpg?v=1568918286",
+      "price": 14,
+      "description": "With its arching, wiry, black stems and delicate, pale green, triangular fronds, Delta Maidenhair Fern is everything you would want from an elegant fern. Often grown in terrariums where humidity levels are high. This is a charming and graceful fern that also works well in bathrooms and kitchens.Adiantum raddianum Fragrans is also known as Adiantum cuneatum and Adiantum rubellum.",
+      "status": false,
+      "likes": [],
+      "id": 39
+    },
+    {
+      "title": "Asplenium Crissie",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Asplenium-amy_5000x.jpg?v=1606141046",
+      "price": 15,
+      "description": "Asplenium Crissie Amy is an easy care Bird's nest fern with a sense of fun. The classic bladed leaves end with wavy fronds that become more frilly as the plant matures.Asplenium Crissie Amy is well behaved and undemanding but does like a degree of humidity making it ideal for adding a touch of easy care, air purifying greenery to kitchens and bathrooms.",
+      "status": false,
+      "likes": [],
+      "id": 40
+    },
+    {
+      "title": "Asplenium Parvati",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Asplenium-Parvati-Mother-Fern_5000x.jpg?v=1569153451",
+      "price": 15,
+      "description": "Asplenium Crissie Amy is an easy care Bird's nest fern with a sense of fun. The classic bladed leaves end with wavy fronds that become more frilly as the plant matures.Asplenium Crissie Amy is well behaved and undemanding but does like a degree of humidity making it ideal for adding a touch of easy care, air purifying greenery to kitchens and bathrooms.",
+      "status": false,
+      "likes": [],
+      "id": 41
+    },
+    {
+      "title": "Japanese Bird's",
+      "type": "Fern",
+      "img": "https://cdn.shopify.com/s/files/1/1706/1307/products/Asplenium-Osaka-Japanese-Birds-Nest-Fern-2_5000x.jpg?v=1569133684",
+      "price": 15,
+      "description": "Asplenium Crissie Amy is an easy care Bird's nest fern with a sense of fun. The classic bladed leaves end with wavy fronds that become more frilly as the plant matures.Asplenium Crissie Amy is well behaved and undemanding but does like a degree of humidity making it ideal for adding a touch of easy care, air purifying greenery to kitchens and bathrooms.",
+      "status": false,
+      "likes": [],
+      "id": 42
+    }
+  ],
+  "comments": [
+    {
+      "user": "aizhan@gmail.com",
+      "content": "I love Plants",
+      "time": "10.08.2021",
+      "productId": 1,
+      "id": 1
     }
   ]
 }
